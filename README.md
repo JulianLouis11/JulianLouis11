@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JulianLouis11/osticket-prereqs)
+  - https://github.com/JulianLouis11/Implementing-a-Help-Desk-Ticketing-System-osTicket-using-Azure-Virtual-Machines-.git
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/JulianLouis11/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/JulianLouis11/azure-network-protocols)
